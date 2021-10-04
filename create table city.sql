@@ -1,0 +1,4 @@
+CREATE TABLE CITY (
+CID INT NOT NULL auto_increment,
+NAME VARCHAR(20) NOT NULL,
+primary key(CID));

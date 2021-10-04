@@ -1,0 +1,1 @@
+select distinct age from employee order by age desc;

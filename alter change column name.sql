@@ -1,0 +1,1 @@
+alter table city rename column city to City;

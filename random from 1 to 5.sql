@@ -1,0 +1,1 @@
+SELECT 1+FLOOR(RAND()*5) AS "Random";

@@ -1,0 +1,1 @@
+select * from actress a right join city c on a.city=c.cid;

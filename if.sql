@@ -1,0 +1,1 @@
+select ID,NAME,MARKS,if(marks>80,"PASS","FAIL") as RESULT from marks;

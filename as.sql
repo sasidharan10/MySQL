@@ -1,0 +1,1 @@
+select id as ID_NUMBER, name AS NAME, age AS AGE from employee;
