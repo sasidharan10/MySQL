@@ -1,0 +1,3 @@
+# MySQL
+
+- Basic SQL Queries
